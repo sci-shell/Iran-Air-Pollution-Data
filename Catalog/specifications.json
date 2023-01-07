@@ -1,0 +1,10 @@
+{
+  "Country": "Iran",
+  "Source_Organization": "Department of Environment",
+  "Type": "Open Government Data",
+  "Type_Abbr": "OGD",
+  "Source_Website": "https://en.doe.ir/",
+  "Maintainer": "Science Shell",
+  "Manipulation": "Removing null Fields, Unifing Fields Type and Name.",
+  "Status": "Active"
+}
